@@ -1,0 +1,39 @@
+Athlete Name,,,,,,
+Date of Birth,,,,,,
+Height,,,,,,
+Weight (lbs),,,,,,
+Hitting Side,Choose,,,,,
+Playing Level,High Scool,,,,,
+,,,,,,
+Date,,,,,Bp/Machine,BVSA HS Average
+,Peak EV:,The max exit velocity of the hitters balls in play,,,0,85.61
+,Average Exit Velocity:,The average of the hitters exit velocities on balls in play,,,0.00,74.96
+,Top 8th Exit Velocity:,The average of the hitters top 12.5% hardest hit balls,,,#NUM!,83.86
+,Hard Hit Rate (%):,The percent of balls hit within 10% of the hitters max exit velocity,,,0%,50.51%
+Batted Ball Data:,Barrel Consistency:,The hitters average exit velocity divided by their peak exit velocity,,,#DIV/0!,87.49%
+,Average Launch Angle of Hard Hit Balls:,The average launch angle of balls hit within 10% of the athletes max exit velocity,,,0.00,10.71
+,Average Launch Angle:,The average launch angle of the hitters balls in play,,,#DIV/0!,12.68
+,Peak Distance (ft):,The max distance of the hitters balls in play,,,0,289.41
+,Average Distance:,The average distance of the hitters balls in play,,,#DIV/0!,133.13
+,,,,,,
+,,Average Exit Velocity,Average Launch Angle,Average Distance,,
+,Pull Side:,,,,,
+,BVSA HS Average:,72.59,16.69,151.97,,
+By Field:,Middle:,,,,,
+,BVSA HS Average:,75.76,16.57,175,,
+,Oppo:,,,,,
+,BVSA HS Average:,72.97,14.7,143.89,,
+,,,,,,
+,,Average Exit Velocity,Average Launch Angle,,,
+,Inside:,,,,,
+,BVSA HS Average:,76.02,11.98,,,
+,Middle:,,,,,
+,BVSA HS Average:,76.25,14.21,,,
+By Zone:,Outside:,,,,,
+,BVSA HS Average:,75.17,13.35,,,
+,High:,,,,,
+,BVSA HS Average:,75.2,17.41,,,
+,Middle Height:,,,,,
+,BVSA HS Average:,74.18,13.94,,,
+,Low:,,,,,
+,BVSA HS Average:,74.95,11.02,,,

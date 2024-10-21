@@ -1,0 +1,15 @@
+,,,,,,,
+,Date,Description,,,Athlete Name,College,HS
+,Avg BatSpeed (mph),The observed speed of the sweet spot of the bat at impact. ,,,#DIV/0!,67.35,61.02
+,90th% BatSpeed (mph),The 90th percentile of the hitter's bat speed values (what their best swing look like),,,0.00,71.96,64.33
+,Exp Peak EV (mph),The expected EV based off of the hitters bat speed and the incoming pitch speed,,,#ERROR!,97.41,88.23
+,Avg Efficiency (BS/HS),The hitters bat speed divided by their peak hand speed (how well they generate bat speed),,,#DIV/0!,3.31,3.31
+,Avg TimeToContact (sec),The time between the start of the downswing and contact with the ball,,,#DIV/0!,0.142,0.162
+,Avg Attack Angle (degrees),"The angle of the bat’s path, at impact, relative to the ground. Positive would be swinging up, negative would be swinging down, and zero is flat",,,#DIV/0!,8.95,11.87
+,Attack Angle Range (%),The amount of an athletes swing where the attack angle is between 4-16 degrees,,,0.00,66.2,59.95
+,Avg PeakHandSpeed (mph),The observed maximum speed as measured on the handle of the bat,,,#DIV/0!,20.51,18.46
+,Avg EarlyConn (degrees),The relationship between your body tilt and vertical bat angle at the start of the swing,,,#DIV/0!,102.77,96.38
+,Avg ConnAtlmpact (degrees),Measures the relationship between your body tilt and vertical bat angle at ccontact,,,#DIV/0!,88.32,82.49
+,Avg RotAccel (g),Rotation measures how quickly your bat accelerates into the swing plane.,,,#DIV/0!,15.7,9.6
+,Avg PlaneEff (%),The percentage of your swing where the bat is on the swing plane,,,#DIV/0!,65.68,66.07
+,Avg/Max BatSpeed (%),The proportion of a hitter's average bat speed to their max bat speed recorded during the session,,,No valid numbers in the data set,91.9,93.35
